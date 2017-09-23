@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 ruby '2.0.0'
 gem 'rails', '~> 4.1.8'
 
-gem 'bundler', '1.12.5'
+gem 'bundler', '1.15.4'
 gem 'railties', '4.1.15'
 gem 'sprockets', '~> 2.12.3'
 gem 'sprockets-rails', '~> 2.2.2'
